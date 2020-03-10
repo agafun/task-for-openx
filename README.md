@@ -1,4 +1,5 @@
 Wariant 2
+
 Stwórz program/skrypt który
 
 ● pobierze dane o postach z https://jsonplaceholder.typicode.com/posts i połączy je z danymi o userach https://jsonplaceholder.typicode.com/users
